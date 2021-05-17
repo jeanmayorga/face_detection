@@ -10,4 +10,4 @@ $ python3 main.py
 ```
 
 ## Results
-![Result]https://github.com/jpmayorga/face_detection/blob/main/result.png?raw=true)
+![Result](https://github.com/jpmayorga/face_detection/blob/main/result.png?raw=true)
