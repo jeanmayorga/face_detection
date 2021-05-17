@@ -1,10 +1,13 @@
 # FaceDetection with Python
 In this practice i'm using openCV to detect faces in some images or webcam video
 
-## libraries
-- opencv
+## Libraries
+- [OpenCV](https://docs.opencv.org/3.4/index.html)
 
-## scripts
+## Scripts
 ```
 $ python3 main.py
 ```
+
+## Results
+![Result]https://github.com/jpmayorga/face_detection/blob/main/result.png?raw=true)
